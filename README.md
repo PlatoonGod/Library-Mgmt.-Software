@@ -1,6 +1,6 @@
 This code was written using the latest version of PyCharm.
 
-The code is intended to be run in IDLE (or any other compatible compilers).
+The code is intended to be run in IDLE (or any other compatible compilers) and from the menu.py file.
 
 The code functions under certain assumptions:
 1. The program assumes all books haver been checked out and checked in at least once (hence the log file entries for all books).
