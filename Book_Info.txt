@@ -1,0 +1,60 @@
+1:Thriller:The Girls Who Disappeared:Claire Douglas:4.50:27/11/2022:0
+2:Crime:The Bullet That Missed:Richard Osman:10.00:27/11/2022:0
+3:Mystery:Snap:Belinda Bauer:23.76:27/11/2022:0
+4:Contemporary Fiction:The Satsuma Complex:Bob Mortimer:8.49:27/11/2022:0
+5:Contemporary Fiction:It Starts With Us:Colleen Hoover:7.00:27/11/2022:0
+6:Contemporary Fiction:It Ends With Us:Colleen Hoover:4.50:27/11/2022:0
+7:Contemporary Fiction:The Christmas Bookshop:Jenny Colgan:12.99:27/11/2022:0
+8:Women's Literary Fiction:The Island Of Missing Trees:Elif Shafak:7.49:27/11/2022:0
+9:Action & Adventure:No Plan B:Lee Child:11.00:27/11/2022:0
+10:Children's Fiction:Spaceboy:David Walliams:7.00:27/11/2022:0
+11:Children's Activity:Where's Spidey?:Marvel Entertainment:2.55:27/11/2022:0
+12:Mystery:The Thursday Murder Club:Richard Osman:11.99:27/11/2022:0
+13:Children's Fiction:Diary Of A Wimpy Kid - Diper Overlode:Jeff Kinney:6.49:27/11/2022:0
+14:Mystery:The Man Who Died Twice:Richard Osman:9.00:27/11/2022:0
+15:Children's Fiction:The Christmasaurus:Tom Fletcher:3.99:27/11/2022:0
+16:Epic Fantasy:The Lost Metal:Brandon Sanderson:18.00:27/11/2022:0
+17:Crime:Hidden Scars:Angela Marsons:9.99:27/11/2022:0
+18:Romance:The Keeper Of Stories:Sally Page:4.50:27/11/2022:0
+19:Women's Literacy Fiction:Lessons In Chemistry:Bonnie Garmus:8.00:27/11/2022:0
+20:Thriller:Geneva:Richard Armitage:17.49:27/11/2022:0
+21:Children's Education:Guinness World Records 2023:Guinness World Records:8.50:27/11/2022:0
+22:Children's Fiction:The Boy, the Mole, the Fox and the Horse:Charlie Mackesy:10.00:08/12/2022:0
+23:Contemporary Fiction:Small Things Like These:Claire Keegan:7.49:08/12/2022:0
+24:Humour:Private Eye Annual 2022:Ian Hislop:8.99:08/12/2022:0
+25:Kitchen:One:Jamie Oliver:14.00:08/12/2022:0
+26:History:The Story Of Art:Katy Hessel:30.00:08/12/2022:0
+27:Autobiography:Taste:Stanley Tucci:8.49:08/12/2022:0
+28:Contemporary Fiction:How To Kill Your Family:Bella Mackie:7.49:08/12/2022:0
+29:Autobiography:Spare:Prince Harry:14.00:08/12/2022:0
+30:Contemporary Fiction:She And Her Cat:Makoto Shinkai:10.00:08/12/2022:0
+31:Autobiography:And Away...:Bob Mortimer:6.99:08/12/2022:0
+32:Autobiography:This Much Is True:Miriam Margolyes:7.99:08/12/2022:0
+33:History:Colditz:Ben Macintyre:21.99:08/12/2022:0
+34:Humour:The Viz Annual 2023:Viz Magazine:9.99:08/12/2022:0
+35:Fiction:The Fair Botanists:Sara Sheridan:7.49:08/12/2022:0
+36:Contemporary Fiction:Klara And The Sun:Kazuo Ishiguro:8.49:8/12/2022:0
+37:Thriller:Silverview:John le Carre:6.99:08/12/2022:0
+38:Contemporary Fiction:Before The Coffee Gets Cold:Toshikazu Kawaguchi:9.99:08/12/2022:0
+39:Contemporary Fiction:Oh William!:Elizabeth Strout:7.49:08/12/2022:0
+40:Contemporary Fiction:Where The Crawdads Sing:Delia Owens:7.99:08/12/2022:0
+41:Children's Fiction:The Jolly Christmas Postman:Allan Ahlberg:12.99:08/12/2022:0
+42:Children's Fiction:The Baddies:Julia Donaldson:9.99:08/12/2022:0
+43:Biography:Madly, Deeply:Alan Rickman:19.99:08/12/2022:0
+44:Humour:Britain's Best Political Cartoons 2022:Tim Benson:11.99:08/12/2022:0
+45:Thriller:Act of Oblivion:Robert Harris:18.99:08/12/2022:0
+46:Contemporary Fiction:Snow Country:Sebastian Faulks:7.49:08/12/2022:0
+47:Contemporary Fiction:The Seven Husbands Of Evelyn Hugo:Taylor Jenkins Reid:7.49:08/12/2022:0
+48:Thriller:The Ink Black Heart:Robert Galbraith:12.50:08/12/2022:0
+49:Contemporary Fiction:Beautiful World, Where Are You:Sally Rooney:7.49:08/12/2022:0
+50:Contemporary Fiction:Murder On The Christmas Express:Alexandra Benedict:12.99:08/12/2022:0
+51:Biography:Agatha Christie:Lucy Worsley:21.99:08/12/2022:0
+52:Thriller:Apples Never Fall:Liane Moriarty:6.99:08/12/2022:0
+53:Contemporary:A Fatal Crossing:Tom Hindle:7.49:08/12/2022:0
+54:Thriller:The Twyford Code:Janice Hallett:6.99:08/12/2022:0
+55:Education:Have I Got News For You 2022:Have I Got News For You:7.49:08/12/2022:0
+56:Contemporary Fiction:The Seven Moons Of Maali Almeida:Shehan Karunatilaka:14.99:08/12/2022:0
+57:Autobiography:Friends, Lovers And The Big Terrible Thing:Matthew Perry:18.99:08/12/2022:0
+58:Thriller:Breathless:Amy McCulloch:7.49:08/12/2022:0
+59:Fantasy:Babel:R.F Kuang:14.99:08/12/2022:0
+60:Thriller:The Lamplighters:Emma Stonex:7.49:08/12/2022:0
